@@ -1,0 +1,10 @@
+order_id,order_date,customer_id,region,product_category,product_name,sales_channel,quantity,revenue,cost
+1001,2022-01-15,C101,North,Electronics,Smartphone,Online,2,40000,30000
+1002,2022-02-10,C102,South,Furniture,Chair,Offline,4,12000,10000
+1003,2022-03-18,C103,East,Apparel,T-Shirt,Online,5,5000,3500
+1004,2023-01-10,C104,West,Electronics,Laptop,Online,1,60000,55000
+1005,2023-02-22,C105,North,Furniture,Table,Offline,2,18000,20000
+1006,2023-03-15,C101,South,Electronics,Headphones,Online,3,9000,12000
+1007,2024-01-05,C106,East,Apparel,Jacket,Offline,1,7000,6000
+1008,2024-02-19,C107,West,Electronics,Smartwatch,Online,2,30000,28000
+
