@@ -1,4 +1,4 @@
-📊 End-to-End Sales Performance & Revenue Optimization
+📊 End-to-End Sales Performance & Revenue Optimization.
 This project delivers a comprehensive sales analytics solution designed to identify revenue leakage and margin inefficiencies. By integrating SQL for data extraction, Python (Streamlit & Plotly) for real-time visualization, and advanced financial metrics, this tool enables executive-level decision-making.
 
 🎯 Key Project Objectives
